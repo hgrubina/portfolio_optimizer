@@ -22,6 +22,7 @@
 ---
 
 ## 🏗️ **Architecture & Tech Stack**
+```
 portfolio_optimizer/
 │
 ├── app/
@@ -40,7 +41,7 @@ portfolio_optimizer/
 │ └── Portfolio_Optimizer_Executive_Overview.pdf
 │
 └── README.md
-
+```
 
 **Technology Stack:**  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-green) ![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-orange) ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visuals-purple) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard_App-red)
