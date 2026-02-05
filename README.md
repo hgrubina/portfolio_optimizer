@@ -103,12 +103,15 @@ Open browser: http://localhost:8501
 
 
 👥 Who Is This For?
-User	Use Case
-Individual Investors	Understand risk exposure beyond basic broker reports
-Financial Advisors	Client presentations with professional, interactive visuals
-Portfolio Managers	Quick stress‑testing of allocations before rebalancing
-Quantitative Analysts	Extensible codebase for custom risk models
-Wealth Management Firms	Internal tool for consistent risk reporting
+|                         |                                                             |
+|-------------------------|-------------------------------------------------------------|
+| User                    | Use Case                                                    |
+| Individual Investors    | Understand risk exposure beyond basic broker reports        |
+| Financial Advisors      | Client presentations with professional, interactive visuals |
+| Portfolio Managers      | Quick stress‑testing of allocations before rebalancing      |
+| Quantitative Analysts   | Extensible codebase for custom risk models                  |
+| Wealth Management Firms | Internal tool for consistent risk reporting                 |
+
 🔮 Ready‑to‑Implement Extensions
 
     ✅ API integrations – Yahoo Finance, Alpha Vantage, Bloomberg
